@@ -1,7 +1,7 @@
 {
-  "sha256": "a11913a7b66c22cb229fb57f2622cf2e2d9be71d21a5b22e602425f58d3588dd",
-  "version": "1.2.0",
-  "package_url": "https://github.com/room010solutions/finance_manager_releases/releases/download/v1.2.0/BeeFinanceManager-1.2.0.zip",
-  "size_bytes": 61183766,
-  "notes": "Release 1.2.0."
+  "version": "1.7.0",
+  "sha256": "e218e673956e8e9275517be4d625946f1cd0289e87d5684cf9cf53a90b6788e5",
+  "notes": "Release 1.7.0.",
+  "size_bytes": 62581847,
+  "package_url": "https://github.com/room010solutions/finance_manager_releases/releases/download/v1.7.0/BeeFinanceManager-1.7.0.zip"
 }
